@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
 body{
     background-color: rgb(176, 135, 241);
+    font-family: 'Scheherazade New', serif;
+    color:indigo
 }
 .col{
     background-color: rgb(156, 75, 194);
+    font-family: 'Scheherazade New', serif;
+    color:indigo
 }
 .container{
     margin-top:20px;
